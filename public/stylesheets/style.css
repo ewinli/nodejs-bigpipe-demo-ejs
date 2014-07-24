@@ -1,0 +1,14 @@
+div {
+			margin: 20px auto;
+			border: 1px dotted gray;
+			width: 80%;
+}
+div h1 {
+		     font-size:1.5;
+		     padding:10px 20px;
+		     margin:0;
+		     border-bottom:1px dotted gray;
+}
+div div {
+		  margin:10px;
+}
